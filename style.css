@@ -6,3 +6,9 @@ body {
     height: 90vh;
     width: 30vh;
 }
+.navbar.scrolled{
+    background-color: #fff;
+    }
+    .container{
+        padding-top: 8%;
+    }
